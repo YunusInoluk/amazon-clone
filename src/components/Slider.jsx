@@ -28,7 +28,7 @@ function SamplePrevArrow(props) {
 export default class SimpleSlider extends Component {
   render() {
     const settings = {
-      //   arrows: false,
+      arrows: false,
       infinite: true,
       speed: 500,
       slidesToShow: 1,
